@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\EjemploSesion3\\Prueba\\Prueba.csproj": {}
+    "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ejemplo2Sesion3\\Prueba\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\EjemploSesion3\\Prueba\\Prueba.csproj": {
+    "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ejemplo2Sesion3\\Prueba\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\EjemploSesion3\\Prueba\\Prueba.csproj",
+        "projectUniqueName": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ejemplo2Sesion3\\Prueba\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\EjemploSesion3\\Prueba\\Prueba.csproj",
+        "projectPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ejemplo2Sesion3\\Prueba\\Prueba.csproj",
         "packagesPath": "C:\\Users\\dg212\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\EjemploSesion3\\Prueba\\obj\\",
+        "outputPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ejemplo2Sesion3\\Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dg212\\AppData\\Roaming\\NuGet\\NuGet.Config"
