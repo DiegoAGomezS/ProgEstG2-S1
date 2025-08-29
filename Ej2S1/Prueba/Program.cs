@@ -1,20 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using Microsoft.VisualBasic;
+class Program
+{
+    static void Main()
+    {
+        double velocidad;
+        double distancia = 40;
+        double tiempo;
 
-int nota;
-Console.WriteLine("Programa para saber si un estudiante aprobó o no");
-Console.WriteLine("Ingresa la nota en número entero:");
-nota = Convert.ToInt32(Console.ReadLine());
-if (nota >= 70)
-{
-    Console.WriteLine("Aprobó");
-}
-else if (nota >= 50 && nota <= 69)
-{
-    Console.WriteLine("Realizar exámen recuperatorio");
-}
-else
-{
-    Console.WriteLine("El estudiante reprobó");
+        Console.Write("Ingrese la velocidad promedio en km/h: ");
+        velocidad = Convert.ToDouble(Console.ReadLine());
+
+        tiempo = distancia / velocidad;
+
+        Console.WriteLine("El tiempo total del viaje es: " + tiempo + " horas.");
+    }
 }

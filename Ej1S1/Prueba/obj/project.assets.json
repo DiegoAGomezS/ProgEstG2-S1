@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ej2S1\\Prueba\\Prueba.csproj",
+      "projectUniqueName": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ej1S2\\Prueba\\Prueba.csproj",
       "projectName": "Prueba",
-      "projectPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ej2S1\\Prueba\\Prueba.csproj",
+      "projectPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ej1S2\\Prueba\\Prueba.csproj",
       "packagesPath": "C:\\Users\\dg212\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ej2S1\\Prueba\\obj\\",
+      "outputPath": "C:\\Users\\dg212\\Desktop\\ProgEstructuradaG7\\Trabajos en clase\\Ej1S2\\Prueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dg212\\AppData\\Roaming\\NuGet\\NuGet.Config"
