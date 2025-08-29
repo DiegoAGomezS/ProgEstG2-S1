@@ -1,0 +1,43 @@
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\bin\Debug\net9.0\Prueba.exe
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\bin\Debug\net9.0\Prueba.deps.json
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\bin\Debug\net9.0\Prueba.runtimeconfig.json
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\bin\Debug\net9.0\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\bin\Debug\net9.0\Prueba.pdb
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfo.cs
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\refint\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\Prueba.pdb
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\Prueba.genruntimeconfig.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Ejemplo\Prueba\obj\Debug\net9.0\ref\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\bin\Debug\net9.0\Prueba.exe
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\bin\Debug\net9.0\Prueba.deps.json
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\bin\Debug\net9.0\Prueba.runtimeconfig.json
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\bin\Debug\net9.0\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\bin\Debug\net9.0\Prueba.pdb
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfo.cs
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\refint\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\Prueba.pdb
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\Prueba.genruntimeconfig.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\Ej1S2\Prueba\obj\Debug\net9.0\ref\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\bin\Debug\net9.0\Prueba.exe
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\bin\Debug\net9.0\Prueba.deps.json
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\bin\Debug\net9.0\Prueba.runtimeconfig.json
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\bin\Debug\net9.0\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\bin\Debug\net9.0\Prueba.pdb
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.AssemblyInfo.cs
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.sourcelink.json
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\refint\Prueba.dll
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.pdb
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\Prueba.genruntimeconfig.cache
+C:\Users\dg212\Desktop\ProgEstructuradaG7\Trabajos en clase\EjemploSesion3\Prueba\obj\Debug\net9.0\ref\Prueba.dll
